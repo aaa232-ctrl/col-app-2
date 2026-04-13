@@ -1,6 +1,5 @@
-plotly==5.18.0
 streamlit
 pandas
 numpy
-plotly
+matplotlib
 openpyxl
